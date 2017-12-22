@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DEC8169E-9C05-4521-86DF-6B21B60C6A56}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".circleci", ".circleci", "{27E3CBD4-9192-4FB4-BE90-53C7DC4B5939}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A0214C9D-4BD8-4634-AD4E-DECD2DE924D3}"
 	ProjectSection(SolutionItems) = preProject
-		config.yml = config.yml
+		.circleci\config.yml = .circleci\config.yml
 	EndProjectSection
 EndProject
 Global
